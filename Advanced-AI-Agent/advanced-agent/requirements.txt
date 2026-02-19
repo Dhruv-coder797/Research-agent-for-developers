@@ -1,7 +1,0 @@
-gradio
-langchain
-langgraph
-langchain-google-genai
-firecrawl-py
-python-dotenv
-pydantic
